@@ -37,9 +37,7 @@ void main()
         case 'F':
              printf("Sorry, you failed.\n");
          break;
-        default:
-             printf("Invalide grade.\n");  
-
+        
     }
     // check eligiblity based on the grade//
     if(grade=='A'||grade=='B'||grade=='C'||grade=='D')
